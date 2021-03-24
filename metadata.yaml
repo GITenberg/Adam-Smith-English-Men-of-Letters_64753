@@ -1,0 +1,27 @@
+_repo: Adam-Smith-English-Men-of-Letters_64753
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hirst, Francis Wrigley
+    aliases:
+    - Hirst, F. W. (Francis Wrigley)
+    - Hirst, Francis W. (Francis Wrigley)
+    birthdate: 1873
+    deathdate: 1953
+    gutenberg_agent_id: '33950'
+    url: http://www.gutenberg.org/2009/agents/33950
+description: ''
+gutenberg_issued: '2021-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64753'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Adam Smith
+
+  English Men of Letters'
+url: http://www.gutenberg.org/ebooks/64753
